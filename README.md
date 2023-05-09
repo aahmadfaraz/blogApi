@@ -1,2 +1,2 @@
 # blogApi
-blogAPI
+blogAPI using Node + Express + MongoDB
