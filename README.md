@@ -4,19 +4,19 @@ blogAPI using Node + Express + MongoDB
 ## Endpoints:
 
 ### User:
-#### signup
+#### * signup
 For signup
-#### login
+#### * login
 For loggin In
 
 ### Blog:
-#### blog
+#### * blog
 For viewing all blogs (or by ID if id provided)
-#### add
+#### * add
 For adding new blog
-#### update
+#### * update
 For updating blog by id
-#### delete
+#### * delete
 For deleting a blog by id
-#### blog/user
+#### * blog/user
 For getting blogs of a specific user by userId
