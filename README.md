@@ -19,4 +19,4 @@ blogAPI using Node + Express + MongoDB
 #### * delete
             --> For deleting a blog by id
 #### * blog/user
-            --> For getting blogs of a specific user by userId
+            For getting blogs of a specific user by userId
